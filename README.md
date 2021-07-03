@@ -1,5 +1,11 @@
 ### 👋 안녕하세요👋
 
+- 😄 앱 개발을 좋아하는 대학생입니다. 😄
+
+- 🔭 동의대학교 1학년 🔭 
+
+- 🌱 현재 공부 중인 언어: 코틀린(Kotlin) 🌱
+
 <!--
 **leesunkwon/leesunkwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
