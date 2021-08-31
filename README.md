@@ -4,7 +4,7 @@
 
 - 🔭 동의대학교 1학년 🔭 
 
-- 🌱 현재 공부 중인 언어: 코틀린(Kotlin) 🌱
+- 🌱 현재 공부 중인 언어: 코틀린(Kotlin), 스위프트(Swift)🌱
 
 <!--
 **leesunkwon/leesunkwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
