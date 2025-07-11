@@ -157,8 +157,6 @@ https://www.youtube.com/watch?v=gBiV96ldNNM
 
 ![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png)
 
-[이선권 프로젝트 정리](https://www.notion.so/a7136429773048c69c4ef7e93f4b1118?pvs=21)
-
 # 👩🏻‍🚀 Experience
 
 ![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png)
