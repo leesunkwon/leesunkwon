@@ -54,12 +54,5 @@
 
 - ✉️ **Email**: lsk8597@naver.com
 - 📱 **Phone**: +82 010-8597-3151
-- 🏠 **Location**: 부산광역시 강서구
 - 🌐 **Portfolio**: [www.projectbusan.com](http://www.projectbusan.com)
 
----
-
-### 📊 GitHub Stats
-
-![Sun-Kwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsk8597&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsk8597&layout=compact&theme=radical)
