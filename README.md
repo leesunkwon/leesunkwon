@@ -1,181 +1,65 @@
-## 안녕하세요. 앱 개발자 이선권 입니다.
+# 👋 안녕하세요, 끊임없이 도전하는 개발자 이선권입니다!
 
-제가 원하는 앱을 직접 개발 하고 사용하는 것을 좋아하고 계속해서 새로운 것에 대한 공부를 좋아하는 대학생 개발자 입니다
+대학생 개발자로서 내가 필요한 앱을 직접 만들고 사용하는 것을 즐기며, 새로운 기술을 학습하고 공유하는 과정에서 보람을 느낍니다. 현재 **부산 연합 IT 동아리 PROJECT**를 운영하며 리더십과 협업 능력을 키워나가고 있습니다.
 
-# 🔎 Profile
+---
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png)
+### 🔎 Profile
 
-### 경력
+- 🎓 **학력**: 동의대학교 컴퓨터소프트웨어공학과 (2021.03 ~ 현재)
+- 📍 **활동**: 부산 연합 IT 동아리 **PROJECT** 대표 (2022.06 ~ 현재)
+- 📱 **주요 관심**: Kotlin 기반 Android 앱 개발, AI-SW 융합 솔루션, 프로젝트 매니징
 
-1. ADD펜션 웹, 앱 제작 2021.07.24 - 2022.04
+---
 
-• 펜션 객실 정보 및 이벤트 확인
+### 🛠 Skills
 
-• 실시간 문의 및 길찾기 기능 포함
+| 분류 | 기술 스택 | 숙련도 |
+| :--- | :--- | :--- |
+| **App Development** | **Kotlin**, Swift, Java | 상 / 중 / 하 |
+| **Web Development** | HTML, CSS, JavaScript | 중 / 중 / 하 |
+| **Design & Media** | Adobe XD, Premiere Pro | 중 |
+| **Collaboration** | Git/GitHub (Branch, PR, Issue Workflow), Slack | 상 |
+| **AI Tool** | ChatGPT, Gemini API 활용 및 서비스 최적화 | 상 |
 
-• 다운 링크https://play.google.com/store/apps/details?id=com.kotlinsun.addpensionapp
+---
 
-2. 한국정보시스템학회 추계학술대회 2022.10.22
+### 👩🏻‍💻 Core Projects & Experience
 
-• 핀테크 관련 주제로 UCC 제작
+#### 🚨 진행 중인 프로젝트
+- **사이버 전자발찌 앱**: 재범 위험이 높은 전과자 모니터링을 위한 솔루션 (Kotlin, Firebase, Gemini API 활용)
+- **보이스피싱 감지 앱**: 실시간 스미싱 및 보이스피싱 방지를 위한 보안 앱 (ViewBinding 활용)
 
-3. 미스터 램 양고기 요리 전문점 웹사이트 제작(외주) 2023.05.05 ~ 08.06
+#### 🏆 주요 수상 실적
+- **2025 동의 AI-SW융합 해커톤** | 우수상 (2025.07) - https://sudden-orca-80f.notion.site/Breath-of-Life-22dc7f8fcc1c8024a912f1395cf974b3?source=copy_link
+- **2024 부산공유대학 디지털 라이프 해커톤** | 최우수상 (2024.12) - https://sudden-orca-80f.notion.site/AI-25dc7f8fcc1c80e7b052d4420044a426?source=copy_link
+- **2022 한국정보시스템학회 추계학술대회** | 우수 논문/UCC (2022.10)
 
-[www.**rajputmrlamb.com**](http://www.rajputmrlamb.com)
+#### 💼 외주 및 개발 이력
+- **강남수병원** 웹사이트 제작 (2024.06)
+- **DOSA KOREA** 웹사이트 제작 (2024.01)
+- **미스터 램** 요리 전문점 웹사이트 제작 (2023.05)
+- **ADD펜션** 공식 앱/웹 제작 및 플레이스토어 런칭 (2021.07)
 
-• 식당 소개
+---
 
-• 위치 안내
+### 🙋🏻 How I Work
+- **Problem Solver**: 문제가 생기면 시간이 걸리더라도 반드시 해결책을 찾아냅니다.
+- **Responsibility**: 함께 약속한 마감 기한은 반드시 준수합니다.
+- **Team Player**: 부산 연합 IT 동아리 운영 경험을 바탕으로 원활한 커뮤니케이션과 협업을 중시합니다.
 
-• 메뉴 안내
+---
 
-• 실시간 채팅
+### 👩🏻‍🚀 Connect with Me!
 
-4. DOSA KOREA 웹사이트 제작(외주) 2024.1.3 ~ 2024.3.6
+- ✉️ **Email**: lsk8597@naver.com
+- 📱 **Phone**: +82 010-8597-3151
+- 🏠 **Location**: 부산광역시 강서구
+- 🌐 **Portfolio**: [www.projectbusan.com](http://www.projectbusan.com)
 
-[www.dosakorea.com](https://dosakorea.com/)
+---
 
-• 회사 정보, 제품 정보 안내
+### 📊 GitHub Stats
 
-• 게시판 기능
-
-• 문의 (메일 전송)
-
-5. 강남수병원 웹사이트 제작(외주) 2024.6.10 ~ 2024.6.26
-
-[https://www.강남수병원.kr/](https://www.xn--939au0g30mnjfvwg.kr/)
-
-• 병원 정보 안내
-
-• 게시판 기능
-
-### 학력
-
-동의대학교 컴퓨터소프트웨어공학과  
-
-2021.3 - 현재
-
-### 수상
-
-2022 한국정보시스템학회 추계학술대회 -우수-
-
-2022.10.22
-
-2024 부산공유대학 디지털 라이프 해커톤-최우수-
-
-https://www.youtube.com/watch?v=gBiV96ldNNM
-
-2024.12.24
-
-2025 동의 AI-SW융합 해커톤 대회 -우수상-
-
-[수상증](https://www.notion.so/22dc7f8fcc1c8085b01ae27ef8c807f9?pvs=21)
-
-2025.07.10
-
-### 활동
-
-1. PROJECT 동아리 운영  2022.06 - 현재
-
-• 부산 연합 IT 동아리 PROJECT 운영(대표)
-
-• 4주 프로젝트 활동 진행(단기 개발 프로젝트)
-
-• 코틀린 앱 개발 스터디 진행
-
-• 홈페이지 주소 : [www.projectbusan.com](http://www.projectbusan.com)
-
-2. GDSC 놀러와요 해커톤 대회 참가 2022.11.12
-
-• Not ToDoList 앱 개발 (Kotlin)
-
-• 정리 링크 : [https://handy-pajama-365.notion.site/7-5177d29e816d43fa989851f592f6ce04](https://www.notion.so/7-5177d29e816d43fa989851f592f6ce04?pvs=21)
-
-[수료증](https://www.notion.so/2cd806c9ef014bd49a2c14f46b339e71?pvs=21)
-
-# ⚒️ Skills
-
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png)
-
-역량의 전문성에 따라 **상 · 중 · 하** 수준으로 분류하였습니다. 각 항목을 누르면 상세 내용을 확인할 수 있습니다. 
-
-**Hard Skills**
-
-- 앱 개발
-    
-    사용할수 있는 언어
-    
-    1. 코틀린 (상)
-    2. 스위프트 (중)
-    3. 자바(하)
-    4. Html (중)
-    5. Css (중)
-    6. Js (하)
-- IT 트렌드 파악
-    
-    Chat gpt 활용
-    
-
-**Soft Skills**
-
-- 커뮤니케이션
-    
-    내외부 파트너 협업
-    
-- 스케줄링
-    
-    동아리 활동 경험을 통한 계획 구성
-    
-- 리더십
-    
-    부산 연합 동아리 운영
-    
-
-**Tools**
-
-- 안드로이드 스튜디오
-    
-    코틀린을 사용한 앱 개발
-    
-- Xcode
-    
-    스위프트 스토리보드를 사용하여 앱 개발 
-    
-- 어도비XD
-    
-    어플 제작시 디자인 틀 제작
-    
-- 어도비 프리미어프로
-    
-    간단 영상 편집 작업
-    
-    (자막, 컷 편집, 효과 적용)
-    
-
-# 👩🏻‍💻 Projects
-
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png)
-
-# 👩🏻‍🚀 Experience
-
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png)
-
-⚽️축구
-
-- 여러명에서 함께하는 스포츠 중 하나인 축구를 좋아합니다.
-
-# 🙋🏻 How i work
-
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png)
-
-- 회사와 세상에 긍정적 영향을 주는 일은 그 자체로 동기부여가 됩니다.
-- 문제가 생겨 오래걸리더라도 어떤 방법이든지 일을 해결할 수 있는 방법을 찾습니다.
-- 함께 정한 기한은 반드시 지키려고 노력해요.
-- 여러명에서 함께 작업하는것을 좋아하는편이라서 팀프로젝트를 선호하지만 개인프로젝트도 따로 할정도로 모두 괜찮습니다
-
-# 👋 Contact
-
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf902c4-03b0-4218-9247-b0c8d315939b/Line_1_(1).png)
-
-✉️ lsk8597@naver.com   📱+82 010-8597-3151   🏠 부산 강서구
+![Sun-Kwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsk8597&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsk8597&layout=compact&theme=radical)
