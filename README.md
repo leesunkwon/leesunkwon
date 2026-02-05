@@ -27,7 +27,6 @@
 ### 👩🏻‍💻 Core Projects & Experience
 
 #### 🚨 진행 중인 프로젝트
-- **사이버 전자발찌 앱**: 재범 위험이 높은 전과자 모니터링을 위한 솔루션 (Kotlin, Firebase, Gemini API 활용)
 - **보이스피싱 감지 앱**: 실시간 스미싱 및 보이스피싱 방지를 위한 보안 앱 (ViewBinding 활용)
 
 #### 🏆 주요 수상 실적
