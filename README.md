@@ -1,25 +1,47 @@
+
+###
+
+<h1 align="center">👋 안녕하세요, 이선권입니다</h1>
+
+###
+
+<p align="center">Kotlin Android 개발을 기반으로, 최근에는 Swift 기반 iOS 프로젝트까지 확장하고 있습니다.</p>
+
+###
+
 <div align="center">
-
-# 👋 안녕하세요, 이선권입니다
-
-### Kotlin Android 개발을 기반으로, 최근에는 Swift 기반 iOS 프로젝트까지 확장하고 있습니다.
-
-<br/>
-
-<a href="mailto:lsk8597@naver.com">
-  <img src="https://img.shields.io/badge/Email-lsk8597%40naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="http://www.projectbusan.com">
-  <img src="https://img.shields.io/badge/Portfolio-projectbusan.com-111111?style=flat-square&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://github.com/leesunkwon">
-  <img src="https://img.shields.io/badge/GitHub-leesunkwon-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<br/>
-<br/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="60" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/sunkwon_9199/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="lsk859797@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
 
 ---
 
