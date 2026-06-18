@@ -2,7 +2,9 @@
 
 # 👋 안녕하세요, 이선권입니다
 
-### Kotlin 기반 Android 앱과 AI-SW 융합 서비스를 만드는 개발자입니다.
+### Kotlin Android 개발을 기반으로, 최근에는 Swift 기반 iOS 프로젝트까지 확장하고 있습니다.
+
+<br/>
 
 <a href="mailto:lsk8597@naver.com">
   <img src="https://img.shields.io/badge/Email-lsk8597%40naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
@@ -10,6 +12,12 @@
 <a href="http://www.projectbusan.com">
   <img src="https://img.shields.io/badge/Portfolio-projectbusan.com-111111?style=flat-square&logo=googlechrome&logoColor=white"/>
 </a>
+<a href="https://github.com/leesunkwon">
+  <img src="https://img.shields.io/badge/GitHub-leesunkwon-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<br/>
+<br/>
 
 </div>
 
@@ -19,9 +27,20 @@
 
 - 🎓 동의대학교 컴퓨터소프트웨어공학과 재학 중
 - 📍 부산 연합 IT 동아리 **PROJECT** 대표
-- 📱 Kotlin 기반 Android 앱 개발에 관심이 많습니다.
-- 🤖 AI API를 활용한 AI-SW 융합 프로젝트를 경험하고 있습니다.
+- 📱 Kotlin 기반 Android 앱 개발을 중심으로 모바일 서비스를 개발하고 있습니다.
+- 🍎 최근에는 **Swift 기반 iOS 프로젝트**를 진행하며 iOS 개발 역량을 확장하고 있습니다.
+- 🤖 AI API를 활용한 AI-SW 융합 서비스와 프로젝트 최적화에 관심이 많습니다.
 - 🧩 문제를 끝까지 해결하고, 팀과 함께 성장하는 개발자를 지향합니다.
+
+---
+
+## 🔥 Current Focus
+
+- 🍎 **Swift 기반 iOS 프로젝트** 진행 중
+- 📱 Kotlin Android 개발 역량 고도화
+- 🚨 보이스피싱 / 스미싱 감지 보안 앱 개발
+- 🤖 AI API를 활용한 모바일 서비스 기능 실험
+- 👥 부산 연합 IT 동아리 **PROJECT** 운영 및 프로젝트 리딩
 
 ---
 
@@ -34,6 +53,7 @@
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
       <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
       <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
+      <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
     </td>
   </tr>
@@ -73,14 +93,14 @@
 
 ## 👩🏻‍💻 Projects & Experience
 
-### 🚨 Voice Phishing Detection App
+### 🍎 iOS Swift Project
 
-> 실시간 스미싱 및 보이스피싱 방지를 위한 보안 앱
+> Swift 기반 iOS 앱 개발 프로젝트를 진행하며 Apple 생태계와 모바일 UX를 학습하고 있습니다.
 
-- Kotlin 기반 Android 앱 개발
-- ViewBinding 활용
-- 실시간 보안 탐지 기능 구현
-- 사용자 보호 중심의 UX 설계
+- Swift 기반 iOS 앱 개발 진행 중
+- iOS 화면 구성 및 사용자 흐름 설계
+- 모바일 앱 구조와 개발 프로세스 학습
+- Android 개발 경험을 iOS 개발로 확장 중
 
 <br/>
 
@@ -88,8 +108,8 @@
 
 | 연도 | 대회 / 활동 | 수상 |
 | :--- | :--- | :--- |
-| 2025.07 | 동의 AI-SW융합 해커톤 | 우수상 |
-| 2024.12 | 부산공유대학 디지털 라이프 해커톤 | 최우수상 |
+| 2025.07 | [동의 AI-SW융합 해커톤](https://sudden-orca-80f.notion.site/Breath-of-Life-22dc7f8fcc1c8024a912f1395cf974b3?source=copy_link) | 우수상 |
+| 2024.12 | [부산공유대학 디지털 라이프 해커톤](https://sudden-orca-80f.notion.site/AI-25dc7f8fcc1c80e7b052d4420044a426?source=copy_link) | 최우수상 |
 | 2022.10 | 한국정보시스템학회 추계학술대회 | 우수 논문/UCC |
 
 <br/>
